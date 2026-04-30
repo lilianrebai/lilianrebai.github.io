@@ -114,6 +114,24 @@ details.paper-abstract summary {
 }
 
 /* Slightly muted abstract when opened */
+
+
 details.paper-abstract[open] {
   color: #666;
+}
+
+/* Teaching page */
+.teaching-list {
+  margin-top: 1rem;
+  padding-left: 1.2rem;
+}
+
+.teaching-list li {
+  margin-bottom: 0.8rem;
+  line-height: 1.45;
+}
+
+.teaching-note {
+  color: #666;
+  font-size: 0.9em;
 }
