@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile_cropped.jpg"
   name             : "Lilian Rebaï"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "5th-year PhD student at Toulouse School of Economics"
   location         : "Toulouse, France"
   employer         : #"Red Brick University"
@@ -33,7 +33,7 @@ author:
   email            : "lilian.rebai@tse-fr.eu" 
 
   # Academic websites
-  academia         : "https://www.tse-fr.eu/fr/people/lilian-rebai"
+  academia         : #"https://www.tse-fr.eu/fr/people/lilian-rebai"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
