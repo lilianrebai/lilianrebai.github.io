@@ -18,8 +18,6 @@ redirect_from:
 
 <article class="research-item">
   <h3>Real estate markets, disaster insurance and environmental risks in France</h3>
-  <p class="paper-meta">Job market paper / presented next Monday</p>
-
   <details class="abstract-toggle">
     <summary>Abstract</summary>
     <p>
