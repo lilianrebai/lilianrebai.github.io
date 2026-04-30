@@ -93,3 +93,27 @@
   font-size: 0.93rem;
   line-height: 1.6;
 }
+
+/* Softer abstract text */
+.paper-abstract,
+details.paper-abstract,
+details.paper-abstract p {
+  font-size: 0.88em;
+  color: #666;
+  line-height: 1.55;
+}
+
+/* Softer Abstract toggle */
+details.paper-abstract summary {
+  font-size: 0.88em;
+  color: #5b8e7d;
+  font-weight: 500;
+  cursor: pointer;
+  margin-top: 0.25rem;
+  margin-bottom: 0.35rem;
+}
+
+/* Slightly muted abstract when opened */
+details.paper-abstract[open] {
+  color: #666;
+}
