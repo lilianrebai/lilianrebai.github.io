@@ -23,7 +23,7 @@ repository               : "lilianrebai/lilianrebai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_cropped.png"
+  avatar           : "/images/profile_cropped.jpg"
   name             : "Lilian Rebaï"
   pronouns         : "he/him"  
   bio              : "5th-year PhD student at Toulouse School of Economics"
