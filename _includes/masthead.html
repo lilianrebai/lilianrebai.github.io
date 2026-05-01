@@ -14,7 +14,7 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-           <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
+           <li class="masthead__menu-item {% if page.url == link.url or page.url contains link.url and link.url != '/' %}selected{% endif %}">
   {% if link.url contains '.pdf' %}
     <a href="{{ domain }}{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a>
   {% else %}
