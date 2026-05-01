@@ -147,3 +147,25 @@ details.paper-abstract[open] {
     display: block !important;
   }
 }
+
+/* Dark mode readability fixes */
+html[data-theme="dark"] .paper-abstract,
+html[data-theme="dark"] details.paper-abstract,
+html[data-theme="dark"] details.paper-abstract p,
+html[data-theme="dark"] details.paper-abstract[open] {
+  color: #e6e6e6;
+}
+
+html[data-theme="dark"] details.paper-abstract summary {
+  color: #9fd6c6;
+}
+
+html[data-theme="dark"] .paper-meta,
+html[data-theme="dark"] .teaching-note {
+  color: #dcdcdc;
+}
+
+html[data-theme="dark"] .section-heading,
+html[data-theme="dark"] .research-item {
+  border-color: #777;
+}
