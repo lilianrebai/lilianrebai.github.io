@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="intro-note">
   <p>
-    I am a 5th-year PhD student at Toulouse School of Economics. My research focuses on better understanding insurance and reinsurance systems for natural disasters, and their consequences for real estate markets, household sorting, and climate-risk exposure.
+    I am a 5th-year PhD student at Toulouse School of Economics. My research focuses on better understanding how insurance and reinsurance systems for natural disasters shape climate-risk exposure, housing markets, and economic welfare.
   </p>
 </div>
 
@@ -28,7 +28,7 @@ redirect_from:
 
 <article class="research-item">
   <h3>Facing natural disaster risks in a regulated market: insurers' strategies in France</h3>
-  <p class="paper-meta">with Sophie Cêtre (CCR) and Amedeo Zorzi (TSE)</p>
+  <p class="paper-meta"> co-authored with <a href="https://scholar.google.com/citations?user=tHHpNn4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Sophie Cêtre</a> (CCR) and <a href="https://amedeozorzi.github.io/" target="_blank" rel="noopener noreferrer">Amedeo Zorzi</a> (TSE)</p>
 
 <details class="paper-abstract">
   <summary>Abstract</summary>
