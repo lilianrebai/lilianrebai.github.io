@@ -135,3 +135,15 @@ details.paper-abstract[open] {
   color: #666;
   font-size: 0.9em;
 }
+
+/* Hide the temporary hamburger/menu icon on desktop */
+.greedy-nav button {
+  display: none !important;
+}
+
+/* Keep mobile behavior if needed */
+@media screen and (max-width: 600px) {
+  .greedy-nav button {
+    display: block !important;
+  }
+}
